@@ -8,7 +8,7 @@ body {
     margin: 0;
     padding: 0;
    
-    background-image: url('download(1).jpeg');
+    background-image: url("download.jpeg");
     background-size: cover; /* This ensures the image covers the entire background */
     background-position: center; /* Centers the background image */
     background-repeat: no-repeat; /* Prevents the image from repeating */
@@ -19,7 +19,7 @@ body {
 .parent {
     width: 80%;
     margin: 20px auto;
-    background: #d09b9b;
+    /* background: #d09b9b; */
     box-shadow: 0 0 10px rgba(0,0,0,0.1);
     padding: 20px;
 }
